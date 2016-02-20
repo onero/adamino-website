@@ -1,2 +1,0 @@
-# adamino-website
-Wordpress website
