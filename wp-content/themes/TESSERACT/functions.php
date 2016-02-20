@@ -626,7 +626,7 @@ function tesseract_footer_branding() {
 
   function tesseract_footer_branding_output() {
       echo '<div id="footer-banner-right" class="designer"><div class="table"><div class="table-cell">';
-      printf( __( 'CVR - 37216291 2016 © %s', 'tesseract' ), '<a href="http://adamino.dk">Adamino</a>' );
+      printf( __( 'CVR 37216291                       2016 © %s', 'tesseract' ), '<a href="http://adamino.dk">Adamino</a>' );
       echo '</div></div></div>';
   }
 
